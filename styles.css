@@ -1,0 +1,12 @@
+* {
+    border: 1px solid lightblue;
+}
+
+
+.top-bar {
+    display: flex;
+    padding: 5px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
